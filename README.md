@@ -25,7 +25,7 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 📷 **Instagram** — [@yr.lifeqxz_](https://instagram.com/yr.lifeqxz_)  
 💬 **Discord** — `alzerox2`  
-🔗 **LinkedIn** — [linkedin.com/in/alifagusleriandb](hwww.linkedin.com/in/alifaguslerianbd)
+🔗 **LinkedIn** — [https://www.linkedin.com/in/alifaguslerianbd/](hwww.linkedin.com/in/alifaguslerianbd)
 
 ---
 
