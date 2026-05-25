@@ -21,20 +21,20 @@
   <!-- Role pill -->
   <rect x="44" y="96" width="190" height="28" fill="#000"/>
   <rect x="42" y="94" width="190" height="28" fill="#FF5E5B" stroke="#000" stroke-width="2.5"/>
-  <text x="137" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">💻 IT Student @ UBD</text>
+  <text x="137" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">IT Undergraduate</text>
 
   <!-- Location pill -->
   <rect x="244" y="96" width="152" height="28" fill="#000"/>
   <rect x="242" y="94" width="152" height="28" fill="#6EEB83" stroke="#000" stroke-width="2.5"/>
-  <text x="318" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">📍 Palembang, ID</text>
+  <text x="318" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800"> Palembang, ID</text>
 
   <!-- Open to collab pill -->
   <rect x="406" y="96" width="172" height="28" fill="#000"/>
   <rect x="404" y="94" width="172" height="28" fill="#D4AAFF" stroke="#000" stroke-width="2.5"/>
-  <text x="490" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">🤝 Open to Collab</text>
+  <text x="490" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">Still Building</text>
 
   <!-- Bio -->
-  <text x="42" y="148" font-family="Georgia, serif" font-size="14" fill="#333333" font-style="italic">Building things on the web — into geopolitics, history &amp; strategy.</text>
+  <text x="42" y="148" font-family="Georgia, serif" font-size="14" fill="#333333" font-style="italic">omewhere between assignments and ambitions.</text>
 
   <!-- Bottom right stamp -->
   <rect x="790" y="138" width="58" height="24" fill="#000"/>
