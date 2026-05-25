@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <i>"The best way to learn is to build something real."</i>
+  <i>"Learning code while overthinking the future — still building anyway."</i>
 </div>
