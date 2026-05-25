@@ -1,0 +1,54 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;family=Archivo+Black&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="200" fill="#FFDE59"/>
+
+  <!-- Shadow block -->
+  <rect x="8" y="8" width="844" height="184" fill="#000000"/>
+  <!-- Main card -->
+  <rect x="0" y="0" width="844" height="184" fill="#FFDE59" stroke="#000000" stroke-width="3"/>
+
+  <!-- Left accent block -->
+  <rect x="0" y="0" width="180" height="184" fill="#FF5E5B" stroke="#000000" stroke-width="3"/>
+
+  <!-- Decorative X pattern on red -->
+  <line x1="20" y1="20" x2="160" y2="164" stroke="#000" stroke-width="2.5" opacity="0.25"/>
+  <line x1="160" y1="20" x2="20" y2="164" stroke="#000" stroke-width="2.5" opacity="0.25"/>
+
+  <!-- Avatar circle placeholder -->
+  <circle cx="90" cy="92" r="52" fill="#FFDE59" stroke="#000000" stroke-width="3"/>
+  <text x="90" y="100" font-family="Arial Black, sans-serif" font-size="38" fill="#000" text-anchor="middle" font-weight="900">AL</text>
+
+  <!-- Name -->
+  <text x="210" y="72" font-family="Arial Black, Impact, sans-serif" font-size="38" fill="#000000" font-weight="900" letter-spacing="-1">Alif Agus Lerian</text>
+
+  <!-- Underline -->
+  <rect x="210" y="80" width="360" height="4" fill="#000000"/>
+
+  <!-- Role badge -->
+  <rect x="212" y="96" width="198" height="30" fill="#000000" rx="0"/>
+  <rect x="210" y="94" width="198" height="30" fill="#FFFFFF" stroke="#000000" stroke-width="2.5" rx="0"/>
+  <text x="309" y="113" font-family="Arial, monospace" font-size="13" fill="#000000" text-anchor="middle" font-weight="700">💻 IT Student @ UBD</text>
+
+  <!-- Second badge -->
+  <rect x="422" y="96" width="162" height="30" fill="#000000" rx="0"/>
+  <rect x="420" y="94" width="162" height="30" fill="#6EEB83" stroke="#000000" stroke-width="2.5" rx="0"/>
+  <text x="501" y="113" font-family="Arial, monospace" font-size="13" fill="#000000" text-anchor="middle" font-weight="700">📍 Palembang, ID</text>
+
+  <!-- Bio text -->
+  <text x="210" y="150" font-family="Arial, sans-serif" font-size="14" fill="#000000" font-weight="400">Building things on the web. Into geopolitics, history &amp; strategy.</text>
+
+  <!-- Bottom decorative dots -->
+  <circle cx="210" cy="172" r="5" fill="#000"/>
+  <circle cx="228" cy="172" r="5" fill="#000"/>
+  <circle cx="246" cy="172" r="5" fill="#000"/>
+
+  <!-- Corner stamp -->
+  <rect x="778" y="8" width="58" height="22" fill="#000000"/>
+  <text x="807" y="23" font-family="Arial, monospace" font-size="11" fill="#FFDE59" text-anchor="middle" font-weight="700">he/him</text>
+</svg>

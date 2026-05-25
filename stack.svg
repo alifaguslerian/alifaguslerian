@@ -1,0 +1,74 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="860" height="160" fill="transparent"/>
+
+  <!-- Section title shadow -->
+  <rect x="5" y="5" width="210" height="38" fill="#000"/>
+  <!-- Section title -->
+  <rect x="0" y="0" width="210" height="38" fill="#FFDE59" stroke="#000" stroke-width="2.5"/>
+  <text x="14" y="25" font-family="Arial Black, Impact, sans-serif" font-size="17" fill="#000" font-weight="900">⚡ TECH STACK</text>
+
+  <!-- Row 1 chips -->
+  <!-- HTML -->
+  <rect x="3" y="52" width="72" height="34" fill="#000"/>
+  <rect x="0" y="49" width="72" height="34" fill="#FF5E5B" stroke="#000" stroke-width="2.5"/>
+  <text x="36" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">HTML</text>
+
+  <!-- CSS -->
+  <rect x="83" y="52" width="62" height="34" fill="#000"/>
+  <rect x="80" y="49" width="62" height="34" fill="#5BA4FF" stroke="#000" stroke-width="2.5"/>
+  <text x="111" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">CSS</text>
+
+  <!-- JavaScript -->
+  <rect x="153" y="52" width="96" height="34" fill="#000"/>
+  <rect x="150" y="49" width="96" height="34" fill="#FFDE59" stroke="#000" stroke-width="2.5"/>
+  <text x="198" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">JavaScript</text>
+
+  <!-- React -->
+  <rect x="257" y="52" width="74" height="34" fill="#000"/>
+  <rect x="254" y="49" width="74" height="34" fill="#6EEB83" stroke="#000" stroke-width="2.5"/>
+  <text x="291" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">React</text>
+
+  <!-- Tailwind -->
+  <rect x="339" y="52" width="90" height="34" fill="#000"/>
+  <rect x="336" y="49" width="90" height="34" fill="#5BA4FF" stroke="#000" stroke-width="2.5"/>
+  <text x="381" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">Tailwind</text>
+
+  <!-- Node.js -->
+  <rect x="437" y="52" width="80" height="34" fill="#000"/>
+  <rect x="434" y="49" width="80" height="34" fill="#6EEB83" stroke="#000" stroke-width="2.5"/>
+  <text x="474" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">Node.js</text>
+
+  <!-- PHP -->
+  <rect x="525" y="52" width="62" height="34" fill="#000"/>
+  <rect x="522" y="49" width="62" height="34" fill="#D4AAFF" stroke="#000" stroke-width="2.5"/>
+  <text x="553" y="71" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">PHP</text>
+
+  <!-- Row 2 -->
+  <!-- Python -->
+  <rect x="3" y="112" width="80" height="34" fill="#000"/>
+  <rect x="0" y="109" width="80" height="34" fill="#FFDE59" stroke="#000" stroke-width="2.5"/>
+  <text x="40" y="131" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">Python</text>
+
+  <!-- Java -->
+  <rect x="91" y="112" width="66" height="34" fill="#000"/>
+  <rect x="88" y="109" width="66" height="34" fill="#FF5E5B" stroke="#000" stroke-width="2.5"/>
+  <text x="121" y="131" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">Java</text>
+
+  <!-- C++ -->
+  <rect x="165" y="112" width="60" height="34" fill="#000"/>
+  <rect x="162" y="109" width="60" height="34" fill="#5BA4FF" stroke="#000" stroke-width="2.5"/>
+  <text x="192" y="131" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">C++</text>
+
+  <!-- Git -->
+  <rect x="233" y="112" width="58" height="34" fill="#000"/>
+  <rect x="230" y="109" width="58" height="34" fill="#FF5E5B" stroke="#000" stroke-width="2.5"/>
+  <text x="259" y="131" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">Git</text>
+
+  <!-- MySQL -->
+  <rect x="299" y="112" width="74" height="34" fill="#000"/>
+  <rect x="296" y="109" width="74" height="34" fill="#6EEB83" stroke="#000" stroke-width="2.5"/>
+  <text x="333" y="131" font-family="Arial, monospace" font-size="13" fill="#000" text-anchor="middle" font-weight="700">MySQL</text>
+
+</svg>
