@@ -1,0 +1,44 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Shadow -->
+  <rect x="6" y="6" width="854" height="214" fill="#000000"/>
+  <!-- Main card -->
+  <rect x="0" y="0" width="854" height="214" fill="#FFFBF0" stroke="#000000" stroke-width="3"/>
+  <!-- Top bar -->
+  <rect x="0" y="0" width="854" height="8" fill="#6EEB83"/>
+  <!-- Left bar -->
+  <rect x="0" y="8" width="14" height="206" fill="#6EEB83"/>
+
+  <!-- Section label -->
+  <rect x="30" y="22" width="130" height="26" fill="#000"/>
+  <rect x="28" y="20" width="130" height="26" fill="#FFDE59" stroke="#000" stroke-width="2.5"/>
+  <text x="93" y="37" font-family="Arial Black, sans-serif" font-size="12" fill="#000" text-anchor="middle" font-weight="900">✦ ABOUT ME</text>
+
+  <!-- Bio text line 1 -->
+  <text x="28" y="72" font-family="Georgia, serif" font-size="14.5" fill="#111" font-style="italic">Hey, I'm Alif — an IT undergraduate who likes building things on the web</text>
+  <!-- Bio text line 2 -->
+  <text x="28" y="92" font-family="Georgia, serif" font-size="14.5" fill="#111" font-style="italic">and turning random ideas into actual projects.</text>
+  <!-- Bio text line 3 -->
+  <text x="28" y="118" font-family="Georgia, serif" font-size="14.5" fill="#444" font-style="italic">Still learning, still experimenting, and somehow surviving university deadlines</text>
+  <!-- Bio text line 4 -->
+  <text x="28" y="138" font-family="Georgia, serif" font-size="14.5" fill="#444" font-style="italic">while trying to build a future through code.</text>
+
+  <!-- Divider -->
+  <rect x="28" y="155" width="800" height="2.5" fill="#000"/>
+
+  <!-- Instagram badge -->
+  <rect x="30" y="170" width="146" height="32" fill="#000"/>
+  <rect x="28" y="168" width="146" height="32" fill="#FF5E5B" stroke="#000" stroke-width="2.5"/>
+  <text x="101" y="189" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">📷 @yr.lifeqxz_</text>
+
+  <!-- Discord badge -->
+  <rect x="186" y="170" width="140" height="32" fill="#000"/>
+  <rect x="184" y="168" width="140" height="32" fill="#5BA4FF" stroke="#000" stroke-width="2.5"/>
+  <text x="254" y="189" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">💬 alzerox2</text>
+
+  <!-- LinkedIn badge -->
+  <rect x="336" y="170" width="218" height="32" fill="#000"/>
+  <rect x="334" y="168" width="218" height="32" fill="#D4AAFF" stroke="#000" stroke-width="2.5"/>
+  <text x="443" y="189" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">🔗 in/alifaguslerianbd</text>
+
+</svg>
