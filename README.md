@@ -31,11 +31,11 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 <br>
 
-<img src="./stack.svg" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-stats-ten-ashy-hfx4zbluay.vercel.app/api/top-langs/?username=alifaguslerian&layout=compact&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&bg_color=1a1a1a&langs_count=8" />
 
 <br>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alifaguslerian&theme=gruvbox&border=000000&border_radius=0&ring=FFDE59&fire=FF5E5B&currStreakLabel=FFDE59)](https://git.io/streak-stats)
 
