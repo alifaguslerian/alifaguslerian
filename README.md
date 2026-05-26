@@ -25,7 +25,7 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 📷 **Instagram** — [@yr.lifeqxz_](https://instagram.com/yr.lifeqxz_)  
 💬 **Discord** — `alzerox2`  
-🔗 **LinkedIn** — [https://www.linkedin.com/in/alifaguslerianbd/](hwww.linkedin.com/in/alifaguslerianbd)
+🔗 **LinkedIn** — [linkedin.com/in/alifaguslerianbd](https://www.linkedin.com/in/alifaguslerianbd/)
 
 ---
 
@@ -42,10 +42,10 @@ Still learning, still experimenting, and somehow trying to build a future throug
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alifaguslerian&show_icons=true&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&icon_color=FF5E5B&bg_color=1a1a1a&cache_seconds=1800" />
+      <img src="https://github-readme-stats-ten-ashy-hfx4zbluay.vercel.app/api?username=alifaguslerian&show_icons=true&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&icon_color=FF5E5B&bg_color=1a1a1a" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifaguslerian&layout=compact&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&bg_color=1a1a1a&cache_seconds=1800" />
+      <img src="https://github-readme-stats-ten-ashy-hfx4zbluay.vercel.app/api/top-langs/?username=alifaguslerian&layout=compact&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&bg_color=1a1a1a" />
     </td>
   </tr>
 </table>
