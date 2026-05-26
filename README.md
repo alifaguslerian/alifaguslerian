@@ -15,19 +15,7 @@
 
 <br>
 
----
-
-Hey, I'm **Alif** — an IT undergraduate who likes building things on the web and turning random ideas into actual projects.
-
-Still learning, still experimenting, and somehow trying to build a future through code while surviving university deadlines.
-
-<br>
-
-📷 **Instagram** — [@yr.lifeqxz_](https://instagram.com/yr.lifeqxz_)  
-💬 **Discord** — `alzerox2`  
-🔗 **LinkedIn** — [linkedin.com/in/alifaguslerianbd](https://www.linkedin.com/in/alifaguslerianbd/)
-
----
+<img src="./bio.svg" width="100%"/>
 
 <br>
 
