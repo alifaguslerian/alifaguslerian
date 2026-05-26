@@ -1,4 +1,5 @@
 <div align="center">
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="140" valign="middle">
@@ -9,24 +10,41 @@
     </td>
   </tr>
 </table>
+
 </div>
+
 <br>
+
 ---
+
 Hey, I'm **Alif** — an IT undergraduate who likes building things on the web and turning random ideas into actual projects.
+
 Still learning, still experimenting, and somehow trying to build a future through code while surviving university deadlines.
+
 <br>
+
 📷 **Instagram** — [@yr.lifeqxz_](https://instagram.com/yr.lifeqxz_)  
-💬 **Discord** — alzerox2  
+💬 **Discord** — `alzerox2`  
 🔗 **LinkedIn** — [linkedin.com/in/alifaguslerianbd](https://www.linkedin.com/in/alifaguslerianbd/)
+
 ---
+
 <br>
-<img src="./stack.svg" width="100%"/>
-<br>
+
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=alifaguslerian&theme=gruvbox&border=000000&border_radius=0&ring=FFDE59&fire=FF5E5B&currStreakLabel=FFDE59)](https://git.io/streak-stats)
-</div>
+
+<img src="https://github-readme-stats-ten-ashy-hfx4zbluay.vercel.app/api/top-langs/?username=alifaguslerian&layout=compact&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&bg_color=1a1a1a&langs_count=8" />
+
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alifaguslerian&theme=gruvbox&border=000000&border_radius=0&ring=FFDE59&fire=FF5E5B&currStreakLabel=FFDE59)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
 ---
+
 <div align="center">
   <i>"Learning code while overthinking the future — still building anyway."</i>
 </div>
