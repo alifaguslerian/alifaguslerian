@@ -23,9 +23,9 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 <br>
 
-📷 **Instagram** — [@yr.lifeqxz_](https://instagram.com/yr.lifeqxz_)  
-💬 **Discord** — `alzerox2`  
-🔗 **LinkedIn** — [linkedin.com/in/alifaguslerianbd](https://www.linkedin.com/in/alifaguslerianbd/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yr.lifeqxz_)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alzerox2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifaguslerianbd/)
 
 ---
 
