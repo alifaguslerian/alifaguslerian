@@ -35,6 +35,14 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 <br>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alifaguslerian&theme=gruvbox&border=000000&border_radius=0&ring=FFDE59&fire=FF5E5B&currStreakLabel=FFDE59)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
