@@ -34,7 +34,7 @@
   <text x="490" y="112" font-family="Arial, monospace" font-size="12.5" fill="#000" text-anchor="middle" font-weight="800">Still Building</text>
 
   <!-- Bio -->
-  <text x="42" y="148" font-family="Georgia, serif" font-size="14" fill="#333333" font-style="italic">omewhere between assignments and ambitions.</text>
+  <text x="42" y="148" font-family="Georgia, serif" font-size="14" fill="#333333" font-style="italic">somewhere between assignments and ambitions.</text>
 
   <!-- Bottom right stamp -->
   <rect x="790" y="138" width="58" height="24" fill="#000"/>
