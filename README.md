@@ -37,6 +37,10 @@ Still learning, still experimenting, and somehow trying to build a future throug
 
 <br>
 
+<img src="https://github-readme-stats-ten-ashy-hfx4zbluay.vercel.app/api?username=alifaguslerian&show_icons=true&theme=gruvbox&border_color=000000&border_radius=0&title_color=FFDE59&icon_color=FF5E5B&bg_color=1a1a1a&hide=prs,issues,contribs&show_icons=false&rank_icon=none&hide_rank=true&card_width=300" />
+
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=alifaguslerian&theme=gruvbox&border=000000&border_radius=0&ring=FFDE59&fire=FF5E5B&currStreakLabel=FFDE59)](https://git.io/streak-stats)
 
 </div>
