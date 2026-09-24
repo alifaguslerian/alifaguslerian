@@ -19,7 +19,7 @@
 
 Hey, I'm **Alif** — an IT undergraduate who likes building things on the web and turning random ideas into actual projects.
 
-Still learning, still experimenting, and somehow trying to build a future through code while surviving university deadlines.
+Undergrad student building things on the web. I learn best by shipping real experiments — from local-first event tools to fullstack apps.
 
 <br>
 
